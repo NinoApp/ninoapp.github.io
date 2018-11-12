@@ -20,8 +20,8 @@ or might miss important information and not write a keyword about it.
 
 
 ### Reports
-* [Project Specifications Report](./Project Specifications.pdf).
-* [Analysis Report](./Analysis Report.pdf).
+* [Project Specifications Report](./Project Specifications.pdf)
+* [Analysis Report](./Analysis Report.pdf)
 
 ### Team Members
 * Ata Deniz Aydın
