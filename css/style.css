@@ -407,6 +407,12 @@ h6{
     border-top: 1px solid #eee;
     text-align: center;
 }
+#features2 {
+    background:#f9f9f9;
+    border-top: 1px solid #eee;
+    text-align: center;
+}
+
 .leftFeatures,.rightFeatures{
     margin-top: 50px;
 }
