@@ -48,7 +48,7 @@ jQuery(document).ready(function ($) {
             width: 1140,
             height: 800,
             responsive:true,
-            autoPlay: 5,
+            autoPlay: 3.5,
             resizeImages:true,
             autoHideBottomNav:false,
             //easing:'easeOutBounce',
